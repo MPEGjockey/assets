@@ -1,0 +1,9 @@
+{
+  "name": "Mau5",
+  "symbol": "MAU5",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Mau5 (MAU5) is a deflationary meme coin on the Polygon blockchain. It was developed as a tribute to the world’s most famous mouse, which gained popularity in the 1920s.",
+  "website": "https://x.com/MAU5coin",
+  "explorer": "https://polygonscan.com/token/0x7217e5C6317fEe281FBf8C284F251ed45D9a1731"
+}
